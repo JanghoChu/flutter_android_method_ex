@@ -1,0 +1,4 @@
+#Thu Jul 09 16:23:19 KST 2020
+base.0=/Volumes/data_sx5/work/project/flutter_Projects/flutter_andorid_method_ex/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
