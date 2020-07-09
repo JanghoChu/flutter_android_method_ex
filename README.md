@@ -1,4 +1,4 @@
-# flutter_andorid_method_ex
+# flutter_android_method_ex
 
 A new Flutter project.
 
